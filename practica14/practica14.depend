@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1540310510 source:c:\users\alumno-g\desktop\practica14\main.cpp
+	<iostream>
+	"punto.h"
+
+1540309544 c:\users\alumno-g\desktop\practica14\include\punto.h
+
+1540309544 source:c:\users\alumno-g\desktop\practica14\src\punto.cpp
+	<iostream>
+	"punto.h"
+
+1540311600 source:c:\users\alumno-g\desktop\practica14\src\vector.cpp
+	<iostream>
+	"vector.h"
+	"punto.h"
+
+1540311600 c:\users\alumno-g\desktop\practica14\include\vector.h
+	"punto.h"
+
